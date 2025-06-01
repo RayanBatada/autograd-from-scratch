@@ -26,7 +26,7 @@ This project implements a simple reverse-mode automatic differentiation (autogra
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/autograd-from-scratch.git
+    git clone https://github.com/RayanBatada/autograd-from-scratch.git
     cd autograd-from-scratch
     ```
 
@@ -34,14 +34,3 @@ This project implements a simple reverse-mode automatic differentiation (autogra
     ```bash
     jupyter notebook Autograd.ipynb
     ```
-
-Make sure you have Jupyter installed (`pip install notebook`) and a Python version ≥ 3.6.
-
-## 📚 Acknowledgments
-
-- Inspired by [micrograd](https://github.com/karpathy/micrograd) by Andrej Karpathy
-- Built as a learning exercise to understand backpropagation and autodiff
-
-## 📜 License
-
-This project is licensed under the MIT License.
